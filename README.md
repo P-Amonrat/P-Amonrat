@@ -1,4 +1,4 @@
-<img style="width: 300px; height: 300px" src="IMG_0202.jpg">
+<img style="width: 300px; height: 300px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/IMG_0202.jpg?raw=true">
 
 # Amonrat Pongka
 
