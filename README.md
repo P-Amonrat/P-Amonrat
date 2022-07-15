@@ -29,6 +29,7 @@ Others
 
 
 ##
+<div style="display: flex">
 <img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/html-css-js.png?raw=true"> 
 <img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/react.png?raw=true">
 <img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/boostrap.png?raw=true">
@@ -37,6 +38,7 @@ Others
 <img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/Docker_Logo.png?raw=true">
 <img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/postman.png?raw=true">
 <img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/figma-logo.png?raw=true">
+</div>
 
 ## Project
 - [Talently-frontend](https://github.com/patrick-mint/Talently-frontend)
