@@ -30,17 +30,18 @@ Others
 
 ##
 <div style="display: flex">
-<img style="width: 300px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/html-css-js.png?raw=true"> 
-<img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/react.png?raw=true">
-<img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/boostrap.png?raw=true">
-<img style="width: 200px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/nodejs.png?raw=true">
-<img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/mysql.png?raw=true">
-<img style="width: 200px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/Docker_Logo.png?raw=true">
-<img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/postman.png?raw=true">
-<img style="width: 150px; height: 150px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/figma-logo.png?raw=true">
+<img style="width: 200px; height: 100px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/html-css-js.png?raw=true"> 
+<img style="width: 150px; height: 100px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/react.png?raw=true">
+<img style="width: 150px; height: 100px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/boostrap.png?raw=true">
+<img style="width: 200px; height: 100px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/nodejs.png?raw=true">
+<img style="width: 150px; height: 100px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/mysql.png?raw=true">
+<img style="width: 200px; height: 100px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/Docker_Logo.png?raw=true">
+<img style="width: 150px; height: 100px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/postman.png?raw=true">
+<img style="width: 150px; height: 100px" src="https://github.com/P-Amonrat/P-Amonrat/blob/master/figma-logo.png?raw=true">
 </div>
 
 ## Project
-- [Talently-frontend](https://github.com/patrick-mint/Talently-frontend)
-- [Talently-backend](https://github.com/patrick-mint/Talently-backend)
-- [Covid-Report](https://github.com/P-Amonrat/covid_report_project.git)
+- [Talently-Project](http://54.179.56.185/)
+- [Covid-Report](https://p-amonrat.github.io/covid_report_project/)
+- [Mobile-Responsive](https://p-amonrat.github.io/mobile-responsive/)
+- [My-Portfolio](https://p-amonrat.github.io/m)
