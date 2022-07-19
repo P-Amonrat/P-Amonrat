@@ -44,4 +44,6 @@ Others
 - [Talently-Project](http://54.179.56.185/)
 - [Covid-Report](https://p-amonrat.github.io/covid_report_project/)
 - [Mobile-Responsive](https://p-amonrat.github.io/mobile-responsive/)
+- [CovidNoti-Project](https://www.youtube.com/watch?v=MUd57aKfRg8)
+- [Ecommerce-Project](https://www.youtube.com/watch?v=AxrD0kushzo)
 - [My-Portfolio](https://p-amonrat.github.io/)
